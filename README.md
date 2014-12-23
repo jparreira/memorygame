@@ -55,4 +55,4 @@ Maybe you feel motivated to build a JavaScript or iOS version. If you keep the s
 
 Let me know if you’re up to it ... OH and if you find any improvement opportunity (i'm sure there's plenty) just add a pull request.
 
-Have fun and don't eat to much cheese ;)
+Have fun and don't eat too much cheese ;)
