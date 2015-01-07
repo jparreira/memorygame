@@ -40,7 +40,9 @@ public class Player {
             @Override
             public void run(Integer code, String errorMessage) {
                 System.out.println(String.format("Player update:: error %d (%s)", code, errorMessage));
-                finish.run(null);
+                if(finish != null) {
+                    finish.run(null);
+                }
             }
         });
     }
