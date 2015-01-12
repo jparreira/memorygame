@@ -17,10 +17,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:21.0.2'
-    compile files('libs/realtime-cloud-storage-1.0.11.jar')
+    compile 'co.realtime:storage-android:1.0.12'
 }
