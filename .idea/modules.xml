@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/RealtimeTile.iml" filepath="$PROJECT_DIR$/RealtimeTile.iml" />
       <module fileurl="file://$PROJECT_DIR$/RealtimeTileGame.iml" filepath="$PROJECT_DIR$/RealtimeTileGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memorygame.iml" filepath="$PROJECT_DIR$/memorygame.iml" />
     </modules>
   </component>
 </project>
